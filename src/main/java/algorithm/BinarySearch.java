@@ -5,6 +5,7 @@ import java.util.Comparator;
 
 /**
  * Created by zjb on 2019/8/22.
+ * 二分查找
  */
 public class BinarySearch {
 
